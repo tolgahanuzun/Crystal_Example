@@ -4,7 +4,7 @@ I wrote code example is where the repo crystal languages.
 
 ## Example Codes
 
-* [Hello World](Example/hello_word.cr)
+* [Hello World](Example/hello_world.cr)
 * [Values Variable](Example/values_variables.cr)
 * [İf Else](Example/if_else.cr)
 * [Switch Case](Example/switch_case.cr)
