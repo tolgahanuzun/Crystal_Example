@@ -11,4 +11,5 @@ I wrote code example is where the repo crystal languages.
 * [While Loop](Example/while_loop.cr)
 * [Array Definition](Example/array_definition.cr)
 * [Tuple-Hash](Example/tuple_hash.cr)
+* [Range-Regex](Example/range_regex.cr)
 * [Http_Server](Example/http_server.cr)
