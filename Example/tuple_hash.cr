@@ -14,3 +14,18 @@ puts values.types
 values = Tuple.new({10,2,3,4})
 values += Tuple.new({10,2,3,4})
 puts values
+
+#Hash Examle
+values = {} of String => String
+values["Variables"]="values"
+puts values["Variables"]
+
+values = Hash( String | String, Int32){"0" => 0}
+values["1"]=1
+puts values
+values["Variables"]= 2
+puts values
+values["1"]=2
+puts values
+values.delete("1")
+puts values
