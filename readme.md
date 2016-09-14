@@ -13,4 +13,5 @@ I wrote code example is where the repo crystal languages.
 * [Tuple-Hash](Example/tuple_hash.cr)
 * [Range-Regex](Example/range_regex.cr)
 * [Definition(Def)](Example/defines.cr)
+* [Class](Example/class.cr)
 * [Http_Server](Example/http_server.cr)
